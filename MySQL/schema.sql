@@ -34,7 +34,7 @@ CREATE TABLE hospital (
   address                 VARCHAR(255),
   bed_capacity            INT,
   has_emergency_department TINYINT,
-  avg_wait_time           INT,
+  avg_wait_time           INTEGER,
   accreditation           VARCHAR(120),
   coverage_area           VARCHAR(120),
   doctor_count            INT,

@@ -1,5 +1,3 @@
-USE city_health_safety;
-
 SELECT 'citizen' AS table_name, COUNT(*) AS `rows` FROM citizen
 UNION ALL
 SELECT 'doctor', COUNT(*) FROM doctor
@@ -32,5 +30,4 @@ SELECT 'fire_logs', COUNT(*) FROM fire_logs
 UNION ALL
 SELECT 'police_logs', COUNT(*) FROM police_logs;
 
-SELECT * FROM citizen;
 
