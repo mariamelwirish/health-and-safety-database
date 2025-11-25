@@ -1,0 +1,11 @@
+first_name,last_name,birthdate,address,access_nearest_hospital_clinic,no_of_calls_made,incidents_reported,difficult_incidents,difficult_incidents_percentage
+Racha,Barakat,1998-08-21,"Baalbek - Ras El Ain","Baalbek Governmental Hospital",6,1,0,0.00
+Omar,Daher,1999-11-17,"Zahle - Ksara","Zahle Governmental Hospital",5,1,1,100.00
+Rana,Khoury,1998-04-12,"Hamra, Beirut","AUBMC / Hamra Clinic",4,1,0,0.00
+Ghassan,Issa,1993-07-14,"Hazmieh - Mar Takla","Geitaoui Hospital / Hazmieh Clinic",3,1,1,100.00
+Fares,Youssef,1995-12-01,"Tripoli - Al Mina","Tripoli Governmental Hospital",3,1,0,0.00
+Hadi,Mansour,2000-09-23,"Achrafieh, Beirut","Hotel Dieu / Achrafieh Clinic",2,1,0,0.00
+Tania,Hammoud,1996-03-05,"Tyre - Old Souk","Tyre Governmental Hospital",2,1,0,0.00
+Nour,Habib,1997-02-15,"Clemenceau, Beirut","Clemenceau Medical Center",1,1,1,100.00
+Elie,Sarkis,1994-10-09,"Jounieh - Maameltein","Hôpital Notre Dame du Liban (Jounieh)",1,1,0,0.00
+Layan,Chidiac,2002-06-30,"Saida - Serail Area","Saida Governmental Hospital",0,1,0,0.00

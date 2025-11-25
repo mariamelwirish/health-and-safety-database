@@ -1,0 +1,19 @@
+facility_name,facility_type,cross_region_visits
+"Zahle Family Health Center",Clinic,5
+"Zahle Governmental Hospital",Hospital,4
+"Baalbek Governmental Hospital",Hospital,4
+"Saida Wellness Clinic",Clinic,4
+"Hotel Dieu de France",Hospital,2
+"Saint George Hospital University Medical Center",Hospital,2
+"Clemenceau Medical Center",Hospital,2
+"Saida Governmental Hospital",Hospital,2
+"Clemenceau Neurology Center",Clinic,2
+"Hamra Family Care Clinic",Clinic,2
+"Hazmieh ENT & Allergy Center",Clinic,2
+"Jounieh Women's Health Clinic",Clinic,2
+"Geitaoui Hospital",Hospital,1
+"Tripoli Governmental Hospital",Hospital,1
+"Hôpital Notre Dame du Liban",Hospital,1
+"Tyre Governmental Hospital",Hospital,1
+"Achrafieh Heart & Vascular Clinic",Clinic,1
+"Tyre Dermatology & Laser Clinic",Clinic,1

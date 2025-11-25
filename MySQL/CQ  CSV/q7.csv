@@ -1,0 +1,7 @@
+region,incident_count,total_beds,incidents_per_bed_ratio
+Tyre,1,220,0.005
+Saida,1,280,0.004
+Bekaa,2,500,0.004
+Jounieh,1,230,0.004
+"Beirut Area",4,1220,0.003
+Tripoli,1,300,0.003
