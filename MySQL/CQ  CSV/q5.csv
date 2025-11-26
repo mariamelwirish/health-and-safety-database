@@ -1,0 +1,13 @@
+facility_name,facility_type,regions_served
+"Clemenceau Medical Center",Hospital,3
+"Clemenceau Neurology Center",Clinic,3
+"Hamra Family Care Clinic",Clinic,3
+"Hotel Dieu de France",Hospital,3
+"Achrafieh Heart & Vascular Clinic",Clinic,2
+"Hazmieh ENT & Allergy Center",Clinic,2
+"Saida Wellness Clinic",Clinic,2
+"Tyre Dermatology & Laser Clinic",Clinic,2
+"Zahle Governmental Hospital",Hospital,2
+"Saint George Hospital University Medical Center",Hospital,1
+"Tripoli Governmental Hospital",Hospital,1
+"Tripoli Ortho & Spine Clinic",Clinic,1

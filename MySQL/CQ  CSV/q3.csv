@@ -1,0 +1,11 @@
+hospital_name,hospital_region,incident_count,avg_wait_time
+"Geitaoui Hospital","Beirut Area",4,50
+"Saint George Hospital University Medical Center","Beirut Area",4,45
+"Hotel Dieu de France","Beirut Area",4,40
+"Clemenceau Medical Center","Beirut Area",4,35
+"Baalbek Governmental Hospital",Bekaa,2,70
+"Zahle Governmental Hospital",Bekaa,2,65
+"Tyre Governmental Hospital",Tyre,1,72
+"Saida Governmental Hospital",Saida,1,60
+"Tripoli Governmental Hospital",Tripoli,1,55
+"Hôpital Notre Dame du Liban",Jounieh,1,45
