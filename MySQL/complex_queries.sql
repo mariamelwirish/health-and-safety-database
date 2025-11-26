@@ -366,6 +366,7 @@ ORDER BY citizens_per_resource DESC;
 
 
 -- 1. Map CITIZENS to regions
+
 WITH citizen_regions AS (
     SELECT
         c.first_name,
