@@ -31,7 +31,7 @@ GROUP BY
     doctor_name,
     doctor_specialty;
 
-
+SELECT * FROM v_doctor_activity_summary;
 
 
 -- ========================================
@@ -68,6 +68,7 @@ LEFT JOIN prescribes p
    AND p.citizen_birthdate  = ct.birthdate
    AND p.medical_license_no = c.medical_license_no;
 
+SELECT * FROM v_citizen_health_history;
 
 
 -- ========================================
@@ -131,4 +132,6 @@ SELECT
 FROM incidents i
 JOIN police_logs pl
     ON pl.report_number = i.report_number
-   AND pl.report_date   = i.report_date;
+	AND pl.report_date = i.report_date;
+
+SELECT * FROM v_incident_full_log;
